@@ -14,4 +14,4 @@ To play FiveM, simply download the launcher binaries from the [website](https://
 To develop FiveM, please follow the documentation in [docs/](https://github.com/citizenfx/fivem/tree/master/docs) in the repository.
 
 ## License
-FiveM is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/citizenfx/fivem/blob/master/code/LICENSE) file in the repository.
+FiveM is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/SitizenFX/fiveQ/blob/871ed2525d75cf8ef0e612db805e17315d0d49a6/code/LICENSE) file in the repository.
