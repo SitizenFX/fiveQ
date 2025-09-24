@@ -1,4 +1,4 @@
-fivev – Private Multiplayer Framework
+fiveQ – Private Multiplayer Framework
 Copyright (c) 2025 Elijah Siita / VidllQ Authority
 
 fivev is a fully proprietary custom fork of the CitizenFX Framework (FiveM),
@@ -6,7 +6,7 @@ and all code, features, modules, tools, and branding are owned and maintained by
 
 ────────────────────────────────────────────
 
-🔒 FIVEV LICENSE – SitizenFX Proprietary
+🔒 FIVEQ LICENSE – SitizenFX Proprietary
 
 ────────────────────────────────────────────
 
@@ -18,3 +18,30 @@ This includes, but is not limited to:
 - Custom gameplay systems, modules, and scripts
 - Client-side scripts, UI, and multiplayer enhancements
 - Build tools, configuration systems, and deployment pipelines
+- Branding, logos, and product names associated with Vidllue
+
+You are NOT permitted to:
+- Use fivev or its code outside SitizenFX
+- Redistribute, publish, or upload any part of fivev publicly
+- Modify, decompile, reverse-engineer, or tamper with proprietary components
+- Share it with third parties without written permission
+
+This software is for internal or authorized use only by SitizenFX.
+Unauthorized use, distribution, or tampering will be considered a breach of copyright law
+and may result in legal enforcement under applicable intellectual property laws.
+
+────────────────────────────────────────────
+
+📍 NOTICE
+
+────────────────────────────────────────────
+
+If fiveq appears publicly, on the internet, or in leaked form, SitizenFX is not responsible.
+Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.
+
+Use of fivev implies full agreement to these terms.
+
+─────────────────
+───────────────────────────
+
+End of License.
